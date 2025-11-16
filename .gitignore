@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Env
+.env
+*.env
+
+# Django
+db.sqlite3
+/media/
+staticfiles/
+static/
+*.log
+
+# VS Code
+.vscode/
+
+# Virtual Environment
+venv/
+env/
+
+# Migrations
+*/migrations/*
+!*/migrations/__init__.py
+
+# Cache
+*.cache
