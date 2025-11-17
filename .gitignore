@@ -18,6 +18,8 @@ static/
 
 # VS Code
 .vscode/
+temp/
+media/
 
 # Virtual Environment
 venv/
